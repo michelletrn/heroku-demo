@@ -1,0 +1,7 @@
+git status, add, commit, push to git
+log into heroku
+heroku create -a [name] (deploys the app)        
+git remote -v (to see if thee app was created)
+git push heroku main
+heroku open to open app
+heroku logs
